@@ -24,7 +24,7 @@ repositories:
 
 website: "https://piraeus.io/"
 
-artwork: "https://landscape.cncf.io/logos/piraeus.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/piraeus-datastore"
 
 adopters:
   path: "https://github.com/piraeusdatastore/piraeus/blob/master/ADOPTERS.md"
